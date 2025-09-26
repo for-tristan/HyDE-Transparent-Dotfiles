@@ -2,6 +2,8 @@
 my own peronal HyDE configureations for a better more clean look  
 
 Before installing, make sure you have #HyDE installed
+
+
 Installation is easy just copy and and replace my config files with the defualt HyDE files and make sure to edit any conf with /home/tristan/.config/ by replacing "tristan" with your username
 
 
